@@ -91,8 +91,8 @@ I’m  , an **Embedded Linux Engineer** with a strong background in **DevOps** a
 
 I’m always excited to connect with like-minded professionals and explore new opportunities. Whether you’re working on a challenging project or just want to discuss the latest in embedded systems, Linux, or AI, feel free to reach out:
 
-- **LinkedIn:** [ ](https://www.linkedin.com/in/yasser-jemli-718582206/)  
-- **Email:** [yasserjamli37@gmail.com](mailto:yasserjamli37@gmail.com)  
-- **Facebook:** [ ](https://fb.com/yasser.jemli.14/)  
+- **LinkedIn:**
+- **Email:** [ 
+- **Facebook:** 
 
 Let’s innovate and build the future together! 🚀  
